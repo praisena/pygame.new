@@ -1,0 +1,2 @@
+# pygame.new
+Pygame project
